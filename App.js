@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text>서울</Text>
+        <Text>부산</Text>
       </View>
     </View>
   );
